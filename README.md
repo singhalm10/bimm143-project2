@@ -38,5 +38,5 @@ Heat map, PCA, 3D protein measurements
 - human_gene.fasta: contains nucleotide sequence for human RGS14  (https://www.ncbi.nlm.nih.gov/nuccore/NM_006480.5?report=fasta&log$=seqview)
 
 2. Homology Modeling
-- mouse_swiss.fasta: contains  (https://swissmodel.expasy.org/repository/uniprot/P97492)
-- human_swiss.fasta: (https://swissmodel.expasy.org/repository/uniprot/O43566)
+- mouse_swiss.fasta: contains amino acid sequence for mouse RGS14 protein (https://swissmodel.expasy.org/repository/uniprot/P97492)
+- human_swiss.fasta: contains amino acid sequence for human RGS14 protein (https://swissmodel.expasy.org/repository/uniprot/O43566)
