@@ -26,5 +26,5 @@ Heat map, PCA, 3D protein measurements
 ## Files:
 
 - MS_Project 2.ipynb: Jupyter notebook of current coding progress
-- mouse_gene.fasta: contains nucleotide sequence for murine RGS14  
-- human_gene.fasta: contains nucleotide sequence for human RGS14  
+- mouse_gene.fasta: contains nucleotide sequence for murine RGS14  (https://www.ncbi.nlm.nih.gov/nuccore/NC_000079.7report=fasta&from=55517269&to=55532504)
+- human_gene.fasta: contains nucleotide sequence for human RGS14  (https://www.ncbi.nlm.nih.gov/nuccore/NM_006480.5?report=fasta&log$=seqview)
