@@ -20,7 +20,7 @@ SWISS Model
 ### Method 2:
 Homology Modeling and Structural Bioinformatics
 
-#### potentially adding PCA analysis of RNAseq data 
+#### potentially adding PCA analysis of RNAseq data (if time)
 
 ### Database 3: NCBI (GEO)
 - Murine RNAseq data GEO, from Cembrowski et al., Elife 2016: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=adsveykeprejbej&acc=GSE74985
