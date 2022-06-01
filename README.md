@@ -32,6 +32,7 @@ Heat map, PCA, 3D protein measurements
 ## Files:
 
 - MS_Project 2.ipynb: Jupyter notebook of current coding progress
+- MS_Project 2.html: html file of current coding progress
 
 1. Sequence Alignment 
 - mouse_gene.fasta: contains nucleotide sequence for murine RGS14  (https://www.ncbi.nlm.nih.gov/nuccore/NC_000079.7?report=fasta&from=55517269&to=55532504)
