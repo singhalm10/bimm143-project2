@@ -23,8 +23,8 @@ Homology Modeling and Structural Bioinformatics
 #### potentially adding PCA analysis of RNAseq data 
 
 ### Database 3: NCBI (GEO)
-Murine RNAseq data GEO, from Cembrowski et al., Elife 2016: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=adsveykeprejbej&acc=GSE74985
-Human RNAseq data GEO, from Ahyan et al., Neuron 2021: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160189
+- Murine RNAseq data GEO, from Cembrowski et al., Elife 2016: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=adsveykeprejbej&acc=GSE74985
+- Human RNAseq data GEO, from Ahyan et al., Neuron 2021: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160189
 
 ### Analysis Methods:
 Heat map, PCA, 3D protein measurements
