@@ -7,3 +7,6 @@ How does the heterogeneity of the CA2 neuronal hippocampus populations between m
 
 ### Hypothesis:
 If sequence alignment reveals differences between mice and humans for the RGS14 marker gene of the CA2 hippocampus region, then PCA on enriched genes as well as structural analysis of the RGS14 protein will elucidate and reaffirm CA2 cellular heterogeneity between the two species.
+
+
+## Files:
