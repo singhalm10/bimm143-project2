@@ -48,10 +48,12 @@ Sequence logos
 
 
 - 2bv5.pdb: PDB file to visualize 2bv5 (human) PTN5 protein in Pymol
+  - used as template file in homology modeling
 - 6h8s.pdb: PDB file to visualize 6h8s (murine) PTN5 protein in Pymol
 - swiss_model.pdb: PDB file to visualize homology protein made via SWISS Model in Pymol
 
 - rcsb_pdb_2BV5.fasta: FASTA file of amino acid sequence for 2bv5 (human) PTN5 protein, from RCSB database
+   - used as target sequence in homology modeling
 - rcsb_pdb_6H8S.fasta: FASTA file of amino acid sequence for 6h8s (murine) PTN5 protein, from RCSB database
 
 - swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
