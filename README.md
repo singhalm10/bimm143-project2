@@ -1,4 +1,5 @@
 # bimm143-project2
+Meenakshi Singhal
 BIMM 143 Spring 2022, Project 2
 
 
@@ -8,13 +9,15 @@ How has PTPN5--a marker gene for the CA2 hippocampus region--been evolutionarily
 ### Hypothesis:
 If sequence alignment reveals differences between mice, humans, and the common marmoset for the PTPN5 marker gene of the CA2 hippocampus region, then homology modeling and sequence logos of this PTPN5 protein will further elucidate evolutionary relationships between the three species.
 
+## Bioinformatics procedures 
+
 ### Database 1:
 NCBI Nucleotide search
 
 ### Method 1:
 Pairwise sequence alignment
 
-## Analysis 1:
+### Analysis 1:
 Heatmap
 
 ### Database 2: 
@@ -23,24 +26,23 @@ PDB
 ### Method 2:
 Homology Modeling and Structural Bioinformatics
 
+### Analysis 2:
+3d protein measurements 
+
 ### Method 3:
 Multiple sequence alignment
 
 ### Analysis 3:
 Sequence logos
 
-### Database 3: NCBI (GEO)
-- Murine RNAseq data GEO, from Cembrowski et al., Elife 2016: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=adsveykeprejbej&acc=GSE74985
-- Human RNAseq data GEO, from Ahyan et al., Neuron 2021: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160189
-
-### Analysis Methods:
-Heat map, PCA, 3D protein measurements
-
 ## Files:
 
-- MS_Project 2.ipynb: Jupyter notebook of current coding progress
-- MS_Project 2.html: html file of current coding progress
+- MS_Project 2.ipynb: Jupyter notebook of code
+- MS_Project 2.html: html file of code
 
-1. Sequence Alignment 
+1. **Sequence Alignment** 
 
-2. Homology Modeling
+2. **Homology Modeling**
+- swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
+- swiss_model_ramachandran.png: an image of the Ramachandran plot of the homology structure of murine PTPN5, developed via SWISS model
+- swiss_structure.png: an image of the homology structure of murine PTPN5
