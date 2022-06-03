@@ -43,6 +43,17 @@ Sequence logos
 1. **Sequence Alignment** 
 
 2. **Homology Modeling**
+- 2bv5.cif: file to load and visualize 2bv5 (human) PTN5 protein with nglviewer
+- 6h8s.cif: file to load and visualize 6h8s (murine) PTN5 protein with nglviewer
+
+
+- 2bv5.pdb: PDB file to visualize 2bv5 (human) PTN5 protein in Pymol
+- 6h8s.pdb: PDB file to visualize 6h8s (murine) PTN5 protein in Pymol
+- swiss_model.pdb: PDB file to visualize homology protein made via SWISS Model in Pymol
+
+- rcsb_pdb_2BV5.fasta: FASTA file of amino acid sequence for 2bv5 (human) PTN5 protein, from RCSB database
+- rcsb_pdb_6H8S.fasta: FASTA file of amino acid sequence for 6h8s (murine) PTN5 protein, from RCSB database
+
 - swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
 - swiss_model_ramachandran.png: an image of the Ramachandran plot of the homology structure of murine PTPN5, developed via SWISS model
 - swiss_structure.png: an image of the homology structure of murine PTPN5
