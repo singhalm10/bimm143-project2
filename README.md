@@ -63,6 +63,10 @@ Sequence logos
    - used as target sequence in homology modeling
 - rcsb_pdb_6H8S.fasta: FASTA file of amino acid sequence for 6h8s (murine) PTN5 protein, from RCSB database
 
+#### Images: 
 - swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
 - swiss_model_ramachandran.png: an image of the Ramachandran plot of the homology structure of murine PTPN5, developed via SWISS model
 - swiss_structure.png: an image of the homology structure of murine PTPN5
+
+- swiss_mouse.png: image of SWISS model structure aligned with mouse PTPN5 protein in PyMOL
+- swiss_hum.png: image of SWISS model structure aligned with human PTPN5 protein in PyMOL
