@@ -42,7 +42,11 @@ Sequence logos
 
 1. **Sequence Alignment** 
 - mouse_gene.fasta.txt: FASTA file from NCBI of coding region of PTPN5 protein in mice; used during sequence alignment 
+
+
 - hum_gene.fasta.txt: FASTA file from NCBI of coding region of PTPN5 protein in humans; used during sequence alignment 
+
+
 -marmoset_gene.fasta.txt: FASTA file from NCBI of coding region of PTPN5 protein in common marmoset; used during sequence alignment 
 
 2. **Homology Modeling**
