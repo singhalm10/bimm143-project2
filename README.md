@@ -58,6 +58,7 @@ Sequence logos
   - used as template file in homology modeling
 - 6h8s.pdb: PDB file to visualize 6h8s (murine) PTN5 protein in Pymol
 - swiss_model.pdb: PDB file to visualize homology protein made via SWISS Model in Pymol
+- swiss_model.pdb.cif: same file as above, in CIF format to read into nglviewer
 
 - rcsb_pdb_2BV5.fasta: FASTA file of amino acid sequence for 2bv5 (human) PTN5 protein, from RCSB database
    - used as target sequence in homology modeling
