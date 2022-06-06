@@ -61,8 +61,9 @@ Sequence logos
 - swiss_model.pdb.cif: same file as above, in CIF format to read into nglviewer
 
 - rcsb_pdb_2BV5.fasta: FASTA file of amino acid sequence for 2bv5 (human) PTN5 protein, from RCSB database
-   - used as target sequence in homology modeling
 - rcsb_pdb_6H8S.fasta: FASTA file of amino acid sequence for 6h8s (murine) PTN5 protein, from RCSB database
+    - used as target sequence in homology modeling
+
 
 #### Images: 
 - swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
