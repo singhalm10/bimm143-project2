@@ -64,6 +64,8 @@ Sequence logos
 - rcsb_pdb_6H8S.fasta: FASTA file of amino acid sequence for 6h8s (murine) PTN5 protein, from RCSB database
     - used as target sequence in homology modeling
 
+3. **Multi-Sequence Alignment**
+- multiseq.fasta: FASTA file of aligned PTPN5 nucleotide sequences for human, mouse, and common marmoset (generated through MAFFT)
 
 #### Images: 
 - swiss_model_quality_estimate.png: an plot showing the estimated quality of each modeled residue in the new murine PTPN5 structure
