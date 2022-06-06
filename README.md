@@ -1,4 +1,7 @@
 # bimm143-project2
+
+## Assessing Differences in the CA2 Hippocampal Region through the PTPN5 gene
+
 Meenakshi Singhal
 BIMM 143 Spring 2022, Project 2
 
